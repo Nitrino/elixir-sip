@@ -1,0 +1,5 @@
+%{
+  "nimble_parsec": {:hex, :nimble_parsec, "0.5.3", "def21c10a9ed70ce22754fdeea0810dafd53c2db3219a0cd54cf5526377af1c6", [:mix], [], "hexpm"},
+  "rustler": {:hex, :rustler, "0.22.0-rc.0", "d8a3d72862874d6c5a5c6421617911e8a2822a310b6e6d3ceb16803c2651350f", [:mix], [{:toml, "~> 0.5.2", [hex: :toml, repo: "hexpm", optional: false]}], "hexpm"},
+  "toml": {:hex, :toml, "0.5.2", "e471388a8726d1ce51a6b32f864b8228a1eb8edc907a0edf2bb50eab9321b526", [:mix], [], "hexpm"},
+}
